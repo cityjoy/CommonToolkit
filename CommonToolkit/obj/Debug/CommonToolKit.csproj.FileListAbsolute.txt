@@ -1,0 +1,17 @@
+E:\MyProjects\CommonToolkit\bin\Debug\CommonToolKit.dll
+E:\MyProjects\CommonToolkit\bin\Debug\CommonToolKit.pdb
+E:\MyProjects\CommonToolkit\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\MyProjects\CommonToolkit\bin\Debug\Ionic.Zip.dll
+E:\MyProjects\CommonToolkit\bin\Debug\log4net.dll
+E:\MyProjects\CommonToolkit\bin\Debug\NPOI.dll
+E:\MyProjects\CommonToolkit\bin\Debug\log4net.xml
+E:\MyProjects\CommonToolkit\obj\Debug\CommonToolKit.dll
+E:\MyProjects\CommonToolkit\obj\Debug\CommonToolKit.pdb
+D:\MyTestProject\CommonToolkit\obj\Debug\CommonToolKit.csprojResolveAssemblyReference.cache
+D:\MyTestProject\CommonToolkit\obj\Debug\CommonToolKit.dll
+D:\MyTestProject\CommonToolkit\bin\Debug\CommonToolKit.dll
+D:\MyTestProject\CommonToolkit\bin\Debug\CommonToolKit.pdb
+D:\MyTestProject\CommonToolkit\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\MyTestProject\CommonToolkit\bin\Debug\Ionic.Zip.dll
+D:\MyTestProject\CommonToolkit\bin\Debug\NPOI.dll
+D:\MyTestProject\CommonToolkit\obj\Debug\CommonToolKit.pdb

@@ -1,0 +1,8 @@
+D:\SVN项目\TclHigh\TclHigh\Toolkit\bin\Debug\Toolkit.dll
+D:\SVN项目\TclHigh\TclHigh\Toolkit\bin\Debug\Toolkit.pdb
+D:\SVN项目\TclHigh\TclHigh\Toolkit\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SVN项目\TclHigh\TclHigh\Toolkit\bin\Debug\Ionic.Zip.dll
+D:\SVN项目\TclHigh\TclHigh\Toolkit\bin\Debug\NPOI.dll
+D:\SVN项目\TclHigh\TclHigh\Toolkit\obj\Debug\Toolkit.csprojResolveAssemblyReference.cache
+D:\SVN项目\TclHigh\TclHigh\Toolkit\obj\Debug\Toolkit.dll
+D:\SVN项目\TclHigh\TclHigh\Toolkit\obj\Debug\Toolkit.pdb
