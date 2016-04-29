@@ -157,6 +157,7 @@
     <Compile Include="Enum\DropDownListHelper.cs" />
     <Compile Include="Enum\EnumHelper.cs" />
     <Compile Include="GetComputerHelper.cs" />
+    <Compile Include="HttpHelper.cs" />
     <Compile Include="MVC\MVCControllersFactory.cs" />
     <Compile Include="RegexMode.cs" />
     <Compile Include="ExcelHelper.cs" />
